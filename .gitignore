@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+venv/
+.idea/
+GA/test.py
+config/config.py
+utils/db_engine.py
+
